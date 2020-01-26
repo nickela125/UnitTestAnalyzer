@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.terraform/
+.tools/
+*.user
+*.trx
+/src/Custom.OpenWrks.Processor.Tests/coverage.opencover.xml
